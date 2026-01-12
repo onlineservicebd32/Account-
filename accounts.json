@@ -10,6 +10,11 @@
       "username": "testuser",
       "password": "test123",
       "locked": true
+    },
+    {
+      "username": "user01",
+      "password": "user01",
+      "locked": true
     }
   ]
 }
