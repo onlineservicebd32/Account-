@@ -9,7 +9,7 @@
     {
       "username": "testuser",
       "password": "test123",
-      "locked": true
+      "locked": false
     },
     {
       "username": "user01",
