@@ -1,15 +1,19 @@
 {
-  "status": "active",
-  "accounts": [
+  "users": [
     {
       "username": "admin",
       "password": "123456",
-      "locked": true
+      "active": true
     },
     {
-      "username": "testuser",
-      "password": "test123",
-      "locked": true
+      "username": "sakil1",
+      "password": "sakil",
+      "active": true
+    },
+    {
+      "username": "rahim",
+      "password": "rahim123",
+      "active": false
     }
   ]
 }
