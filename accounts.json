@@ -1,0 +1,15 @@
+{
+  "status": "active",
+  "accounts": [
+    {
+      "username": "admin",
+      "password": "123456",
+      "locked": false
+    },
+    {
+      "username": "testuser",
+      "password": "test123",
+      "locked": true
+    }
+  ]
+}
