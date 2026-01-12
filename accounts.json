@@ -7,9 +7,9 @@
       "locked": false
     },
     {
-      "username": "testuser",
-      "password": "test123",
-      "locked": false
+      "username": "user01",
+      "password": "user01",
+      "locked": true
     },
     {
       "username": "user01",
