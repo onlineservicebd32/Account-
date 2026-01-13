@@ -9,12 +9,12 @@
     {
       "username": "user01",
       "password": "user01",
-      "locked": true
+      "locked": false
     },
     {
       "username": "Rokon",
       "password": "Rokon123",
-      "locked": false
+      "locked": true
     }
   ]
 }
